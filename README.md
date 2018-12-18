@@ -1,4 +1,4 @@
-# Eyeball
+# eyeball
 
 Code an Eye in Processing
 CREATIVE  CODING CLASS | PADILLA | ALHS | 2018
